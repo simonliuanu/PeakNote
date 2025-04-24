@@ -154,6 +154,24 @@ After a high-stakes meeting, Sarah accesses the markdown preview of the generate
 **Scenario:**  
 After an important client meeting, Miguel finalizes the meeting summary and chooses to download a PDF version for documentation. Additionally, he shares it directly with his sales team on Microsoft Teams to keep everyone aligned.
 
+#### **User Story 6: Link‑Based Summary Generation**
+
+**As a** busy team lead,  
+**I want to** paste a Microsoft Teams meeting link into PeakNote and instantly receive a summary,  
+**so that** I can quickly obtain the summary in a convenient and error-free way.
+
+**Scenario:**  
+John Smith pastes a meeting URL into PeakNote. The tool retrieves the recording, transcribes it, and returns a structured summary of discussion points, decisions, and action items within minutes, enabling him to move on quickly.
+
+#### **User Story 7: Multi‑Template Summaries**
+
+**As a** project manager,  
+**I want to** generate one‑click summaries in different formats (Standard, Client, Scrum, Daily Stand‑up),  
+**so that** each audience receives a record tailored to their needs.
+
+**Scenario:**  
+Emily hosts various meetings. After each session, she selects “Client,” “Scrum,” “Daily Stand‑up,” or “Standard” in PeakNote. The system instantly outputs a pre‑formatted summary, eliminating manual re‑editing.
+
 ---
 
 ### **Requirements Elicitation**
