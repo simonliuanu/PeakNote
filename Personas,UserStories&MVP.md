@@ -134,7 +134,7 @@ During a product planning meeting, team members discuss their responsibilities. 
 **so that** I can review the discussion even if I joined late or missed part of it.
 
 **Scenario:**  
-Lucy, working from a different time zone, joins the meeting 15 minutes late. After the meeting ends, PeakNote generates a full transcript, allowing her to catch up on everything that was discussed.
+Lucy, working from a different time zone, joins the meeting 15 minutes late. After the meeting ends, Lucy opens PeakNote to generates a meeting minutes, allowing her to catch up on everything that was discussed and action items assigned to her.
 
 #### **User Story 4: Post-Meeting Summary Preview and Editing**
 
@@ -143,16 +143,16 @@ Lucy, working from a different time zone, joins the meeting 15 minutes late. Aft
 **so that** I can make necessary modifications before finalizing the summary.
 
 **Scenario:**  
-After a high-stakes meeting, Sarah accesses the markdown preview of the generated meeting summary. She quickly edits key points and confirms formatting before finalizing it as a PDF to distribute to executives.
+After a high-stakes meeting, Sarah accesses the A4 portrait preview of the generated meeting summary. She quickly edits key points and confirms formatting before finalizing it as a document to distribute to executives.
 
 #### **User Story 5: Meeting Summary Export and Sharing**
 
 **As a** sales manager,  
-**I want to** download the finalized meeting summary in PDF or Word format or share it with Teams colleagues,  
+**I want to** download the finalized meeting summary in PDF format or share it with Teams colleagues,  
 **so that** I can ensure proper documentation and collaboration.
 
 **Scenario:**  
-After an important client meeting, Miguel finalizes the meeting summary and chooses to download a PDF version for documentation. Additionally, he shares it directly with his sales team on Microsoft Teams to keep everyone aligned.
+After an important client meeting, Miguel finalizes the meeting summary with 'Client Meeting' template and chooses to download a PDF version for documentation. Additionally, he shares it directly with his sales team via Outlook in Teams to keep everyone aligned.
 
 #### **User Story 6: Link‑Based Summary Generation**
 
@@ -161,7 +161,7 @@ After an important client meeting, Miguel finalizes the meeting summary and choo
 **so that** I can quickly obtain the summary in a convenient and error-free way.
 
 **Scenario:**  
-John Smith pastes a meeting URL into PeakNote. The tool retrieves the recording, transcribes it, and returns a structured summary of discussion points, decisions, and action items within minutes, enabling him to move on quickly.
+John Smith pastes a meeting URL into PeakNote. The tool retrieves the recording and returns a structured summary of discussion points, decisions, and action items within minutes, enabling him to move on quickly.
 
 #### **User Story 7: Multi‑Template Summaries**
 
