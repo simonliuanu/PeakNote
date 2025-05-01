@@ -12,7 +12,7 @@
   
 - **Pain Points**: Manually taking meeting minutes is time-consuming, task assignments are difficult to achieve, and tracking task progress after meetings is difficult.
   
-- **MeetingAssistant Value**: Automatically generates task lists after meetings, improving team execution efficiency. Provides a post-meeting preview interface to review, modify, and confirm the meeting minutes before finalizing them.
+- **PeakNote Value**: Automatically generates task lists after meetings, improving team execution efficiency. Provides a post-meeting preview interface to review, modify, and confirm the meeting minutes before finalizing them.
   
 
 #### **Persona 2: Startup Founder**
@@ -27,7 +27,7 @@
   
 - **Pain Points**: Frequent meetings make it hard to manually organize discussion points, and efficient collaboration is essential.
   
-- **MeetingAssistant Value**: Provides automated meeting summaries to help review key takeaways and prevent information loss. Allows seamless sharing of finalized meeting minutes with Teams colleagues and groups.
+- **PeakNote Value**: Provides automated meeting summaries to help review key takeaways and prevent information loss. Allows seamless sharing of finalized meeting minutes with Teams colleagues and groups.
   
 
 #### **Persona 3: Executive Assistant**
@@ -42,7 +42,7 @@
   
 - Pain Points: Manually creating and sending meeting notes to multiple stakeholders is time-consuming and prone to inconsistency
   
-- MeetingAssistant Value: Automatically delivers polished meeting summaries directly to executives' Outlook inboxes, saving time and ensuring consistent communication. Users can download meeting summaries in PDF or Word format for formal documentation.
+- PeakNote Value: Automatically delivers polished meeting summaries directly to executives' Outlook inboxes, saving time and ensuring consistent communication. Users can download meeting summaries in PDF or Word format for formal documentation.
   
 
 #### Persona 4: Sales Manager
@@ -57,7 +57,7 @@
   
 - Pain Points: Difficult to document all important details from numerous client meetings while maintaining customer relationships
   
-- MeetingAssistant Value: Receives comprehensive meeting summaries in Outlook immediately after client meetings, allowing quick follow-up on action items and commitments. Provides the ability to share key meeting takeaways directly to Teams for better coordination.
+- PeakNote Value: Receives comprehensive meeting summaries in Outlook immediately after client meetings, allowing quick follow-up on action items and commitments. Provides the ability to share key meeting takeaways directly to Teams for better coordination.
   
 
 #### Persona 5: HR Director
@@ -72,7 +72,7 @@
   
 - Pain Points: Struggles to maintain thorough records of sensitive conversations while being fully present during meetings
   
-- MeetingAssistant Value: Gets secure, confidential meeting summaries delivered to her Outlook inbox that can be easily filed with employee records. Supports markdown preview of meeting notes before formalizing them.
+- PeakNote Value: Gets secure, confidential meeting summaries delivered to her Outlook inbox that can be easily filed with employee records. Supports markdown preview of meeting notes before formalizing them.
   
 
 #### Persona 6: IT Administrator
@@ -87,7 +87,7 @@
   
 - Pain Points: New software tools often create integration challenges and security concerns
   
-- MeetingAssistant Value: MeetingAssistant's seamless Outlook integration works within existing Microsoft ecosystem, minimizing security risks and deployment challenges. Provides options to manage meeting summary file formats and distribution.
+- PeakNote Value: PeakNote's seamless Outlook integration works within existing Microsoft ecosystem, minimizing security risks and deployment challenges. Provides options to manage meeting summary file formats and distribution.
   
 
 #### Persona 7: Compliance Officer
@@ -102,7 +102,7 @@
   
 - Pain Points: Missing or incomplete meeting documentation can lead to regulatory issues
   
-- MeetingAssistant Value: Receives comprehensive meeting summaries directly in Outlook that can be easily archived for audit purposes and compliance documentation. Ensures regulatory requirements by allowing a structured markdown preview before finalizing records.
+- PeakNote Value: Receives comprehensive meeting summaries directly in Outlook that can be easily archived for audit purposes and compliance documentation. Ensures regulatory requirements by allowing a structured markdown preview before finalizing records.
   
 
 ---
@@ -116,7 +116,7 @@
 **so that** I can quickly review key points without going through the entire recording.
 
 **Scenario:**  
-Zheng holds a weekly team meeting where important decisions are made. After the meeting, MeetingAssistant generates a concise summary, including action items and major discussions. Zheng can quickly scan the summary to ensure nothing is missed.
+Zheng holds a weekly team meeting where important decisions are made. After the meeting, PeakNote generates a concise summary, including action items and major discussions. Zheng can quickly scan the summary to ensure nothing is missed.
 
 #### **User Story 2: Task Assignment Based on Speakers’ Inputs**
 
@@ -125,7 +125,7 @@ Zheng holds a weekly team meeting where important decisions are made. After the 
 **so that** I can streamline the delegation process and improve accountability.
 
 **Scenario:**  
-During a product planning meeting, team members discuss their responsibilities. MeetingAssistant identifies the tasks mentioned and assigns them to the relevant team members, reducing manual effort for the manager.
+During a product planning meeting, team members discuss their responsibilities. PeakNote identifies the tasks mentioned and assigns them to the relevant team members, reducing manual effort for the manager.
 
 #### **User Story 3: Post-Meeting Transcription**
 
@@ -134,7 +134,7 @@ During a product planning meeting, team members discuss their responsibilities. 
 **so that** I can review the discussion even if I joined late or missed part of it.
 
 **Scenario:**  
-Lucy, working from a different time zone, joins the meeting 15 minutes late. After the meeting ends, MeetingAssistant generates a full transcript, allowing her to catch up on everything that was discussed.
+Lucy, working from a different time zone, joins the meeting 15 minutes late. After the meeting ends, PeakNote generates a full transcript, allowing her to catch up on everything that was discussed.
 
 #### **User Story 4: Post-Meeting Summary Preview and Editing**
 
