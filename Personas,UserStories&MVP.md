@@ -27,7 +27,7 @@
   
 - **Pain Points**: Frequent meetings make it hard to manually organize discussion points, and efficient collaboration is essential.
   
-- **PeakNote Value**: Provides automated meeting summaries to help review key takeaways and prevent information loss. Allows seamless sharing of finalized meeting minutes with Teams colleagues and groups.
+- **PeakNote Value**: Provides automated meeting summaries to help review key takeaways and prevent information loss. Allows seamless sharing of finalized meeting minutes with Teams colleagues.
   
 
 #### **Persona 3: Executive Assistant**
@@ -42,7 +42,7 @@
   
 - Pain Points: Manually creating and sending meeting notes to multiple stakeholders is time-consuming and prone to inconsistency
   
-- PeakNote Value: Automatically delivers polished meeting summaries directly to executives' Outlook inboxes, saving time and ensuring consistent communication. Users can download meeting summaries in PDF or Word format for formal documentation.
+- PeakNote Value: Delivers polished meeting summaries with 'Share' button to executives' Outlook inboxes, saving time and ensuring consistent communication. Users can download meeting summaries in PDF or Word format or directly print them with 'Print' button as well.
   
 
 #### Persona 4: Sales Manager
@@ -57,7 +57,7 @@
   
 - Pain Points: Difficult to document all important details from numerous client meetings while maintaining customer relationships
   
-- PeakNote Value: Receives comprehensive meeting summaries in Outlook immediately after client meetings, allowing quick follow-up on action items and commitments. Provides the ability to share key meeting takeaways directly to Teams for better coordination.
+- PeakNote Value: Receives comprehensive meeting summaries with 'Client Meeting' template immediately after client meetings with action items. Provides the ability to share meeting minutes through Outlook to clients.
   
 
 #### Persona 5: HR Director
@@ -72,7 +72,7 @@
   
 - Pain Points: Struggles to maintain thorough records of sensitive conversations while being fully present during meetings
   
-- PeakNote Value: Gets secure, confidential meeting summaries delivered to her Outlook inbox that can be easily filed with employee records. Supports markdown preview of meeting notes before formalizing them.
+- PeakNote Value: Gets secure, confidential meeting summaries delivered to her Outlook inbox that can be easily filed with employee records. Supports AI generated preview of meeting notes before downloading them.
   
 
 #### Persona 6: IT Administrator
@@ -87,7 +87,7 @@
   
 - Pain Points: New software tools often create integration challenges and security concerns
   
-- PeakNote Value: PeakNote's seamless Outlook integration works within existing Microsoft ecosystem, minimizing security risks and deployment challenges. Provides options to manage meeting summary file formats and distribution.
+- PeakNote Value: PeakNote's seamless Outlook integration works within existing Microsoft ecosystem, minimizing security risks and deployment challenges. 
   
 
 #### Persona 7: Compliance Officer
@@ -102,7 +102,7 @@
   
 - Pain Points: Missing or incomplete meeting documentation can lead to regulatory issues
   
-- PeakNote Value: Receives comprehensive meeting summaries directly in Outlook that can be easily archived for audit purposes and compliance documentation. Ensures regulatory requirements by allowing a structured markdown preview before finalizing records.
+- PeakNote Value: Receives meeting mintues directly in Outlook that can be easily archived for audit purposes and compliance documentation. Ensures regulatory requirements by allowing a structured  preview before editing and shareing.
   
 
 ---
