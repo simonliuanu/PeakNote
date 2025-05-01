@@ -174,3 +174,57 @@ Emily hosts various meetings. After each session, she selects “Client,” “S
 
 ---
 
+## 1. Core Value Proposition
+
+**Problem Solved by PeakNote**: Post-meeting documentation and summarization are time-consuming and prone to missing critical information.  
+**Core Value**: Transforms meeting recordings into structured summaries, saving time for professionals and enhancing team collaboration efficiency.
+
+## 2. Target Users
+
+- Knowledge workers who frequently attend meetings
+  
+- Small team leaders and project managers
+  
+- Professionals who need to track decisions and action items
+  
+
+## 3. Core Features (Simplified Version)
+
+### Essential Features (Phase 1)
+
+- **Upload Meeting Links**: Supports Teams meeting links
+  
+- **Template Selection**: Initially supports four meeting types
+  
+- **AI Summary Generation**: Extracts key points and action items
+  
+- **View & Download**: Print, PDF export, and email sharing
+  
+
+### Deferred Features (Future Iterations)
+
+- ~~Complex meeting history management~~ (replaced with simple list view)
+  
+- ~~Historical meeting record search functionality~~ (not implemented in MVP phase)
+  
+- ...
+  
+
+## 4. Streamlined User Flow
+
+1. Upload meeting link
+  
+2. Wait for processing notification
+  
+3. View and download summary
+  
+
+## 5. Rapid Iteration Plan Post-Launch
+
+Based on early customer feedback, priority will be given to:
+
+1. Summary quality optimization
+  
+2. User interface improvements
+  
+3. Adding additional features requested by customers
