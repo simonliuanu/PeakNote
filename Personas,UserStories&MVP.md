@@ -2,17 +2,17 @@
 
 #### **Persona 1: Corporate Team Manager**
 
-- **Name**: Zheng
+- **Name**: Clark
   
 - **Age**: 38
   
 - **Occupation**: Project Manager
   
-- **Needs**: Efficiently record meeting content and quickly assign tasks to team members.
+- **Needs**: Efficiently record meeting content and quickly forward it to team members.
   
-- **Pain Points**: Manually taking meeting minutes is time-consuming, task assignments are difficult to achieve, and tracking task progress after meetings is difficult.
+- **Pain Points**: Manually taking meeting minutes is time-consuming, task assignments are difficult to achieve.
   
-- **PeakNote Value**: Automatically generates task lists after meetings, improving team execution efficiency. Provides a post-meeting preview interface to review, modify, and confirm the meeting minutes before finalizing them.
+- **PeakNote Value**: Automatically generates action items after meetings, improving team execution efficiency. Provides a preview for user to review, modify, and confirm the meeting minutes before forwarding them.
   
 
 #### **Persona 2: Startup Founder**
