@@ -27,7 +27,7 @@
   
 - **Pain Points**: Frequent meetings make it hard to manually organize discussion points, and efficient collaboration is essential.
   
-- **PeakNote Value**: Provides automated meeting summaries to help review key takeaways and prevent information loss. Allows seamless sharing of finalized meeting minutes with Teams colleagues.
+- **PeakNote Value**: Provides automated meeting summaries to help review key takeaways. Allows seamless sharing of finalized meeting minutes with Teams colleagues.
   
 
 #### **Persona 3: Executive Assistant**
@@ -72,7 +72,7 @@
   
 - Pain Points: Struggles to maintain thorough records of sensitive conversations while being fully present during meetings
   
-- PeakNote Value: Gets secure, confidential meeting summaries delivered to her Outlook inbox that can be easily filed with employee records. Supports AI generated preview of meeting notes before downloading them.
+- PeakNote Value: Gets secure, confidential meeting summaries delivered to her Outlook inbox that can be easily filed with employee records.
   
 
 #### Persona 6: IT Administrator
@@ -87,7 +87,7 @@
   
 - Pain Points: New software tools often create integration challenges and security concerns
   
-- PeakNote Value: PeakNote's seamless Outlook integration works within existing Microsoft ecosystem, minimizing security risks and deployment challenges. 
+- PeakNote Value: PeakNote's seamless Outlook integration and Microsoft SSO login works together, minimizing security risks and deployment challenges. 
   
 
 #### Persona 7: Compliance Officer
@@ -102,7 +102,7 @@
   
 - Pain Points: Missing or incomplete meeting documentation can lead to regulatory issues
   
-- PeakNote Value: Receives meeting mintues directly in Outlook that can be easily archived for audit purposes and compliance documentation. Ensures regulatory requirements by allowing a structured  preview before editing and shareing.
+- PeakNote Value: Delivers meeting mintues from PeakNote to Outlook after meeting, minutes can be easily archived for audit purposes and compliance documentation. Ensures regulatory requirements by allowing a structured  preview before editing and shareing.
   
 
 ---
@@ -116,7 +116,7 @@
 **so that** I can quickly review key points without going through the entire recording.
 
 **Scenario:**  
-Zheng holds a weekly team meeting where important decisions are made. After the meeting, PeakNote generates a concise summary, including action items and major discussions. Zheng can quickly scan the summary to ensure nothing is missed.
+Zheng holds a weekly team meeting where important decisions are made. After the meeting, Zheng uses PeakNote to generate a concise summary, including action items and major discussions. Zheng can quickly scan the summary to ensure nothing is missed.
 
 #### **User Story 2: Task Assignment Based on Speakers’ Inputs**
 
@@ -125,7 +125,7 @@ Zheng holds a weekly team meeting where important decisions are made. After the 
 **so that** I can streamline the delegation process and improve accountability.
 
 **Scenario:**  
-During a product planning meeting, team members discuss their responsibilities. PeakNote identifies the tasks mentioned and assigns them to the relevant team members, reducing manual effort for the manager.
+During a product planning meeting, team members discuss their responsibilities. Zheng usese PeakNote to identify the tasks mentioned and assigns them to the relevant team members, reducing manual effort for the manager.
 
 #### **User Story 3: Post-Meeting Transcription**
 
@@ -143,7 +143,7 @@ Lucy, working from a different time zone, joins the meeting 15 minutes late. Aft
 **so that** I can make necessary modifications before finalizing the summary.
 
 **Scenario:**  
-After a high-stakes meeting, Sarah accesses the A4 portrait preview of the generated meeting summary. She quickly edits key points and confirms formatting before finalizing it as a document to distribute to executives.
+After a high-stakes meeting, Sarah accesses the A4 portrait preview of the generated meeting summary. She quickly edits key points using the toolbar above the A4 portrait and confirms formatting before finalizing it as a document to distribute to executives.
 
 #### **User Story 5: Meeting Summary Export and Sharing**
 
@@ -181,7 +181,7 @@ Emily hosts various meetings. After each session, she selects “Client,” “S
 
 ## 2. Target Users
 
-- Knowledge workers who frequently attend meetings
+- Users who frequently attend meetings
   
 - Small team leaders and project managers
   
@@ -212,11 +212,12 @@ Emily hosts various meetings. After each session, she selects “Client,” “S
 
 ## 4. Streamlined User Flow
 
-1. Upload meeting link
+1. Conduct your meeting in Teams
+2. Upload meeting link
   
-2. Wait for processing notification
+3. Wait for processing notification
   
-3. View and download summary
+4. View and download summary
   
 
 ## 5. Rapid Iteration Plan Post-Launch
