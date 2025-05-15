@@ -1,37 +1,57 @@
-**Week 9: Deep Dive into User Needs & Core Features (May 1)**
+## PeakNote Roadmap
 
-- **Goal:** Solidify understanding of *who* will use PeakNote and *what* core problems it solves for them. Explore different UI directions. Update User Manual to show how to import meeting records.
-- **Activities**:
-  - Present sprint 2 documentations with tutor in sprint review
-  - Update User Stories & Personas for the most critical features discussed so far. Work out MVP
-  - Update user manual to show how to import Teams meeting url
-- **Client Meeting:** Present the Personas, User Stories, personas & MVP, and the updated UI concepts. Get feedback on which persona resonates most, which user stories are highest priority. Present updated user manual.
+**Project:** PeakNote – Automated Meeting Minutes for Microsoft Teams
+**Course:** COMP8715 TechLauncher
+**Team cadence:** One working day per week (**Thursdays**)
+**Goal:** Deliver a robust, user-friendly Teams integration that automatically produces clear, action-oriented meeting minutes.
 
-**Week 10: Refine & Select UI Direction, Finalise Core Features (May 8)**
+------
 
-- **Goal:** Lock down the core feature list for this semester's focus and select the final UI design direction based on last week's feedback.
-- Activities:
-  - Refine the User Stories & MVP based on client feedback, clearly defining the scope for the initial front-end build.
-  - Develop finalised higher-fidelity mockups (or even a simple clickable prototype) for the *chosen* UI direction. Show key screens and interactions.
-  - Document the agreed-upon feature set and the finalized UI design rationale.
-- **Client Meeting:** Present the finalised User Stories and the detailed mockups/prototype of the chosen UI. Seek formal agreement/sign-off from the client: "Does this accurately represent the core features and the look-and-feel we should build for PeakNote first?"
+## Semester 1 Wrapping Up 
 
-**Week 11: Foundational Front-End Implementation (May 15)**
+| Week   | Date (Thu)      | Focus for the Day                                            | What You Will See                              | Your Input Requested                                         |
+| ------ | --------------- | ------------------------------------------------------------ | ---------------------------------------------- | ------------------------------------------------------------ |
+| **11** | **15 May 2025** | • Present full project roadmap.<br />• Walk through the end-to-end flow chart (meeting ➜ data capture ➜ AI processing ➜ minutes output).<br />• Live demo of transcript retrieval & draft minutes. | roadmap + flow, demo of transcript generation. | • Approve roadmap scope & milestones.<br />• Confirm transcript-retrieval approach and any privacy constraints.<br />• Provide feedback on minutes layout & tone. |
+| **12** | **22 May 2025** | • Benchmark showcase – same meeting run through several AI models (anonymised).<br />• Updated high-fidelity UI mock-ups.<br />• Sprint review day | Comparison dashboard, refined UI prototype.    | • Rank preferred model or share criteria.<br />• Approve revised UI copy & branding elements.<br />• Sign off Semester 1 deliverables. |
 
-- **Goal:** Start translating the approved design into actual code, focusing on the main structure and key components.
-- Activities:
-  - Set up the front-end project structure (e.g., framework choice, folders, basic build setup).
-  - Start coding the main application shell/layout based on the mockups.
-  - Implement 1-2 key UI components (e.g., the main meeting view, a specific button panel, input fields) visually.
-- **Client Meeting:** Demonstrate the initial coded structure and the implemented components. Show how the design is starting to come to life. Get feedback on the visual implementation. Ask: "How does seeing the design in code feel? Any immediate adjustments needed?"
+> **Winter Break (23 May – 21 Jul):** no formal Thursday sessions
 
-**Week 12: Implement Key Interaction & Semester Wrap-up (May 22)**
+------
 
-- **Goal:** Implement a core user interaction flow within the UI and prepare for the end-of-semester presentation/handover.
-- Activities:
-  - Continue implementing UI components based on priority.
-  - Focus on making one key user story partially interactive within the UI (even if it's just simulated front-end logic for now).
-  - Prepare final documentation (updated designs, user stories, code overview).
-  - Prepare the final presentation/demo for the client and course assessment.
-  - Prepare the roadmap for next semester's sprint 1
-- **Client Meeting:** Present the final progress for the semester. Demo the implemented UI, focusing on the interactive flow you built. Discuss the achievements and hand over documentation. Get final feedback and briefly discuss the plan for next semester's backend work. Discuss the roadmap for semester 2 sprint 1.
+## Semester 2 Roadmap (Coding Phase)
+
+### Sprint 1 – Build the Backbone (Weeks 4-6)
+
+| Week  | Date       | Outcome for the Day                                          | What You Will See                                | Your Input                     |
+| ----- | ---------- | ------------------------------------------------------------ | ------------------------------------------------ | ------------------------------ |
+| **4** | **14 Aug** | Kick-off coding; live service fetching meeting transcript and storing securely. | Working transcript service demo.                 | Confirm data-retention policy. |
+| **5** | **21 Aug** | First AI-generated summary displayed inside Teams.           | End-to-end flow in .                             | Approve tone/style of minutes. |
+| **6** | **28 Aug** | Decision & Action-item extraction; <br />Sprint 1 Review day. | Teams app v0.2 -<br />A early working prototype. | Set acceptance thresholds.     |
+
+### Sprint 2 – Beta & User Testing (Weeks 7-9)
+
+| Week  | Date       | Outcome                                                      | What You Will See                             | Your Input                                |
+| ----- | ---------- | ------------------------------------------------------------ | --------------------------------------------- | ----------------------------------------- |
+| **7** | **4 Sep**  | Deployment & Testing                                         | How PeakNote is deployed in cloud services.   | Approval of selected cloud service.       |
+| **8** | **11 Sep** | Refine UI & Optimization                                     | Updated UI and better performance of program. | Schedule/approve alpha-test.              |
+| **9** | **18 Sep** | Alpha rollout to select users; collect feedback.<br />Sprint 2 Review day | Usage dashboard & Alpha test survey results.  | Identify any blockers or change requests. |
+
+### Sprint 3 – Release Candidate (Weeks 10-12)
+
+| Week   | Date       | Outcome                                                | What You Will See                          | Your Input                              |
+| ------ | ---------- | ------------------------------------------------------ | ------------------------------------------ | --------------------------------------- |
+| **10** | **25 Sep** | Live demonstration of full workflow; final UI polish.  | Live meeting minutes generation demo.      | Final copy & branding sign-off.         |
+| **11** | **2 Oct**  | Preparation of Microsoft Teams Store submission pack.  | Submission-ready zip & validation results. | Approve licence text & support details. |
+| **12** | **9 Oct**  | Final showcase and hand-over.<br />Final sprint review | Version 1.0 demo to course panel.          | Agree post-launch maintenance plan.     |
+
+------
+
+## Key Milestones
+
+| Date            | Milestone                                            |
+| --------------- | ---------------------------------------------------- |
+| **22 May 2025** | Semester 1 deliverables accepted.                    |
+| **28 Aug 2025** | MVP accepted (ready for internal use).               |
+| **18 Sep 2025** | Alpha test satisfaction ≥ 80 % “useful/very useful”. |
+| **9 Oct 2025**  | Final exhibition & grading.                          |
+
